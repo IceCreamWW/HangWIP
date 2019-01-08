@@ -43,7 +43,7 @@ html, body {
 
 .depict-wrapper
 {
-    width: 65%;
+    width: 62%;
     margin: auto;
 }
 
@@ -51,6 +51,8 @@ html, body {
 {
     position: relative;
     overflow: hidden;
+    padding: 2%;
+    border: 8px solid white;
 }
 
 .depict:hover .depict-text
@@ -93,7 +95,7 @@ img.depict-image
 {
     width: 90%;
     margin: 4vh auto auto;
-    background: rgba(219, 210, 193, 0.5);
+    background: white;
 }
 
 .thumbnails-list img {

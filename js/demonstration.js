@@ -6,7 +6,6 @@
         fade: true,
         asNavFor: '.thumbnails-list',
         draggable: false,
-        initialSlide: 11
     });
 
     $(".thumbnails-list").slick({
@@ -14,7 +13,6 @@
         centerMode: true,
         infinite: false,
         slidesToShow: 5,
-        slidesToScroll: 1,
         focusOnSelect: true,
         swipeToSlide: true,
         asNavFor: '.depicts-list',
