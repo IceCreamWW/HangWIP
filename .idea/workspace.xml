@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a1d96a2-f6c1-4908-9679-9969140cab2b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/update.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fullpage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/fullpage.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/demonstration.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/demonstration.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/update.py" beforeDir="false" afterPath="$PROJECT_DIR$/update.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,36 +32,36 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="" value="1" />
-          <entry key="css" value="4" />
+          <entry key="css" value="5" />
           <entry key="gitignore" value="1" />
-          <entry key="html" value="2" />
-          <entry key="js" value="4" />
-          <entry key="py" value="1" />
+          <entry key="html" value="3" />
+          <entry key="js" value="5" />
+          <entry key="py" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="4" />
-          <entry key="HTML" value="2" />
-          <entry key="JavaScript" value="4" />
-          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="CSS" value="5" />
+          <entry key="HTML" value="3" />
+          <entry key="JavaScript" value="5" />
+          <entry key="PLAIN_TEXT" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="" value="14" />
-          <entry key="css" value="5766" />
+          <entry key="css" value="5779" />
           <entry key="gitignore" value="52" />
-          <entry key="html" value="4736" />
-          <entry key="js" value="694" />
+          <entry key="html" value="4891" />
+          <entry key="js" value="720" />
           <entry key="py" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="5766" />
-          <entry key="HTML" value="4736" />
-          <entry key="JavaScript" value="694" />
+          <entry key="CSS" value="5779" />
+          <entry key="HTML" value="4891" />
+          <entry key="JavaScript" value="720" />
           <entry key="PLAIN_TEXT" value="85" />
         </counts>
       </usages-collector>
@@ -70,38 +72,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4485">
-              <caret line="197" column="40" selection-start-line="197" selection-start-column="40" selection-end-line="197" selection-end-column="40" />
+            <state relative-caret-position="4508">
+              <caret line="204" column="15" selection-start-line="204" selection-start-column="15" selection-end-line="204" selection-end-column="15" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/update.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/demonstration.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="97" selection-start-line="97" selection-end-line="97" />
             </state>
           </provider>
         </entry>
@@ -110,7 +85,25 @@
         <entry file="file://$PROJECT_DIR$/2.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
-              <caret line="26" column="51" selection-start-line="26" selection-start-column="51" selection-end-line="26" selection-end-column="51" />
+              <caret line="26" column="48" lean-forward="true" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/demonstration.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -136,9 +129,9 @@
         <option value="$PROJECT_DIR$/.gitignore." />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/update.py" />
-        <option value="$PROJECT_DIR$/js/demonstration.js" />
-        <option value="$PROJECT_DIR$/1.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/1.html" />
+        <option value="$PROJECT_DIR$/js/demonstration.js" />
       </list>
     </option>
   </component>
@@ -170,7 +163,17 @@
             <path>
               <item name="HangWIP" type="b2602c69:ProjectViewProjectNode" />
               <item name="HangWIP" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HangWIP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HangWIP" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HangWIP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HangWIP" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -189,9 +192,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\PC\WebstormProjects\HangWIP\images" />
-      <recent name="C:\Users\PC\WebstormProjects\HangWIP\css" />
       <recent name="C:\Users\PC\WebstormProjects\HangWIP\js" />
+      <recent name="C:\Users\PC\WebstormProjects\HangWIP\css" />
+      <recent name="C:\Users\PC\WebstormProjects\HangWIP\images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -217,12 +220,12 @@
       <option name="presentableId" value="Default" />
       <updated>1546912656384</updated>
       <workItem from="1546912657699" duration="18068000" />
-      <workItem from="1546953989976" duration="2863000" />
+      <workItem from="1546953989976" duration="4236000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25254000" />
+    <option name="totallyTimeSpent" value="26627000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -240,7 +243,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.56157637" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.30377668" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -281,41 +284,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4485">
-          <caret line="197" column="40" selection-start-line="197" selection-start-column="40" selection-end-line="197" selection-end-column="40" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/js/fullpage.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/fullpage.css">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/js/demonstration.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
+        <state relative-caret-position="399">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/update.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        <state relative-caret-position="304">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="97" selection-start-line="97" selection-end-line="97" />
+        <state relative-caret-position="4508">
+          <caret line="204" column="15" selection-start-line="204" selection-start-column="15" selection-end-line="204" selection-end-column="15" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
-          <caret line="26" column="51" selection-start-line="26" selection-start-column="51" selection-end-line="26" selection-end-column="51" />
+          <caret line="26" column="48" lean-forward="true" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
         </state>
       </provider>
     </entry>

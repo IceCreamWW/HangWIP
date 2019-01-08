@@ -13,7 +13,6 @@ html, body {
     background: #555;
     background: url("../images/bg.jpg") no-repeat;
     background-size: cover;
-    padding-top: 7vh;
     overflow: hidden;
 }
 
@@ -71,7 +70,7 @@ img.depict-image
     position: absolute;
     top: 0;
     left: 100%;
-    height: 100%;
+    height: 97%;
     width: 50%;
     font-size: 1.3vw;
     padding: 4%;

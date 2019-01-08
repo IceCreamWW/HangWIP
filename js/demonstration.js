@@ -1,4 +1,6 @@
 (function ($) {
+    $(window).on('resize',function(){location.reload();});
+    $('#fullpage').fullpage();
     $('.depicts-list').slick({
         slidesToShow: 1,
         slidesToScroll: 1,
@@ -17,5 +19,4 @@
         swipeToSlide: true,
         asNavFor: '.depicts-list',
     });
-
 })(jQuery);
