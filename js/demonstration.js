@@ -5,7 +5,8 @@
         arrows: false,
         fade: true,
         asNavFor: '.thumbnails-list',
-        draggable: false
+        draggable: false,
+        initialSlide: 11
     });
 
     $(".thumbnails-list").slick({

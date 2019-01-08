@@ -11,7 +11,7 @@ html, body {
     width: 100vw;
     height: 100vh;
     background: #555;
-    /*background: url("../images/bg.jpg") no-repeat;*/
+    background: url("../images/bg.jpg") no-repeat;
     background-size: cover;
     padding-top: 7vh;
     overflow: hidden;
@@ -29,6 +29,7 @@ html, body {
     position: absolute;
     top: 35vh;
     right: 10vh;
+    z-index: 10;
 }
 .home img
 {
@@ -37,19 +38,12 @@ html, body {
 }
 
 .slider {
-    width: 80%;
     margin: 0 auto;
 }
 
-.depicts-list
-{
-    /*height: 66vh;*/
-}
-
-
 .depict-wrapper
 {
-    width: 80%;
+    width: 65%;
     margin: auto;
 }
 
@@ -97,13 +91,19 @@ img.depict-image
 
 .thumbnails-list
 {
-    margin-top: 4vh;
+    width: 90%;
+    margin: 4vh auto auto;
     background: rgba(219, 210, 193, 0.5);
 }
 
 .thumbnails-list img {
     width: 90%;
     margin: 7% auto;
+}
+
+.thumbnails-list .slick-center
+{
+    /*border: 1px solid;*/
 }
 
 .slick-list
