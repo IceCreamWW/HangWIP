@@ -2,72 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a1d96a2-f6c1-4908-9679-9969140cab2b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/ajax-loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/fonts/slick.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/fonts/slick.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/fonts/slick.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/fonts/slick.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/slick-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/slick.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1/00.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1/04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1/05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1/06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1/07.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1/08.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1/09.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1/12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1/13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1/14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1/15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1/16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1/17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1/18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1/19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1/20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1/21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1/22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1/23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1/24.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1/25.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1/26.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1/27.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1/28.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1/29.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1/30.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/home.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/demonstration.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery-3.3.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/slick.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -106,18 +43,18 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="" value="14" />
-          <entry key="css" value="3960" />
-          <entry key="gitignore" value="39" />
-          <entry key="html" value="3616" />
+          <entry key="css" value="4848" />
+          <entry key="gitignore" value="52" />
+          <entry key="html" value="3901" />
           <entry key="js" value="566" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="3960" />
-          <entry key="HTML" value="3616" />
+          <entry key="CSS" value="4848" />
+          <entry key="HTML" value="3901" />
           <entry key="JavaScript" value="566" />
-          <entry key="PLAIN_TEXT" value="53" />
+          <entry key="PLAIN_TEXT" value="66" />
         </counts>
       </usages-collector>
     </session>
@@ -127,21 +64,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+            <state relative-caret-position="284">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="8" selection-start-column="8" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -155,11 +83,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="83" column="28" selection-start-line="83" selection-start-column="28" selection-end-line="83" selection-end-column="28" />
+            <state relative-caret-position="285">
+              <caret line="51" column="38" selection-start-line="51" selection-start-column="38" selection-end-line="51" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -183,10 +111,10 @@
       <list>
         <option value="$PROJECT_DIR$/css/slick-theme.css" />
         <option value="$PROJECT_DIR$/js/demonstration.js" />
-        <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/1.html" />
         <option value="$PROJECT_DIR$/.gitignore." />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/1.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
   </component>
@@ -264,22 +192,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1546912656384</updated>
-      <workItem from="1546912657699" duration="15965000" />
+      <workItem from="1546912657699" duration="18068000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15965000" />
+    <option name="totallyTimeSpent" value="18068000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.56157637" />
+      <window_info anchor="bottom" id="Terminal" weight="0.56157637" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -325,10 +254,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/.gitignore.">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="83" column="28" selection-start-line="83" selection-start-column="28" selection-end-line="83" selection-end-column="28" />
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -339,17 +275,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore.">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="9" selection-start-column="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        <state relative-caret-position="284">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
           <folding>
             <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -357,10 +286,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        <state relative-caret-position="285">
+          <caret line="51" column="38" selection-start-line="51" selection-start-column="38" selection-end-line="51" selection-end-column="38" />
         </state>
       </provider>
     </entry>
