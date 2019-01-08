@@ -11,9 +11,10 @@ html, body {
     width: 100vw;
     height: 100vh;
     background: #555;
-    background: url("../images/bg.jpg") no-repeat;
+    /*background: url("../images/bg.jpg") no-repeat;*/
     background-size: cover;
     padding-top: 7vh;
+    overflow: hidden;
 }
 
 .name {
@@ -42,18 +43,7 @@ html, body {
 
 .depicts-list
 {
-    height: 66vh;
-}
-
-.thumbnails-list
-{
-    margin-top: 4vh;
-    height: 18vh;
-    background: rgba(219, 210, 193, 0.5);
-}
-.thumbnails-list img {
-    height: 13vh;
-    margin: 2vh auto auto;
+    /*height: 66vh;*/
 }
 
 
@@ -85,7 +75,7 @@ img.depict-image
     position: absolute;
     top: 0;
     left: 100%;
-    height: 64vh;
+    height: 100%;
     width: 50%;
     font-size: 1.3vw;
     padding: 4%;
@@ -103,6 +93,17 @@ img.depict-image
 {
     width: 25%;
     display: inline-block;
+}
+
+.thumbnails-list
+{
+    margin-top: 4vh;
+    background: rgba(219, 210, 193, 0.5);
+}
+
+.thumbnails-list img {
+    width: 90%;
+    margin: 7% auto;
 }
 
 .slick-list
