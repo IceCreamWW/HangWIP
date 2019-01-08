@@ -1,0 +1,110 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.page-1{
+    width: 100vw;
+    height: 100vh;
+    background: #555;
+    /*background: url("../images/bg.jpg") no-repeat;*/
+    background-size: cover;
+    padding-top: 7vh;
+}
+
+.name {
+    position: absolute;
+    writing-mode: vertical-lr;
+    font-size: 5vh;
+    top: 10vh;
+    left: 10vh;
+}
+
+.home {
+    position: absolute;
+    top: 35vh;
+    right: 10vh;
+}
+.home img
+{
+    height: 10vh;
+
+}
+
+.slider {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.depicts-list
+{
+    height: 66vh;
+}
+
+.thumbnails-list
+{
+    margin-top: 4vh;
+    height: 18vh;
+    background: #FFF;
+}
+.thumbnails-list img {
+    height: 13vh;
+    margin: 2vh auto auto;
+}
+
+
+.depict-wrapper
+{
+    width: 80%;
+    margin: auto;
+}
+
+.depict
+{
+    overflow: hidden;
+}
+.depict-scroll
+{
+    width: 200%;
+    vertical-align: middle;
+}
+
+.depict-scroll img.depict-image
+{
+    width: 50%;
+    display: inline-block;
+}
+
+.depict-scroll:hover .depict-text
+{
+    transform: translateX(-100%);
+}
+
+.depict-scroll .depict-text
+{
+    height: 63vh;
+    line-height: 63vh;
+    width: 25%;
+    font-size: 1.3vw;
+    padding-left: 2%;
+    display: inline-block;
+    transition: 800ms;
+    background: rgba(255, 255, 255, 0.5);
+}
+
+.depict-scroll .depict-placeholder
+{
+    width: 25%;
+    display: inline-block;
+}
+
+
+
+.slick-list
+{
+    height: 100%;
+}
