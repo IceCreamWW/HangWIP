@@ -7,7 +7,64 @@ html, body {
     box-sizing: border-box;
 }
 
-.page-1{
+a {
+    color: inherit;
+    text-decoration: inherit;
+}
+
+/* index page */
+
+.page {
+    height: 100vh;
+    width: 100vw;
+    background: #DDD;
+    /*background: url("../images/bg.jpg") no-repeat;*/
+    background-size: cover;
+}
+
+.works {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.work-list
+{
+    margin: 4% 0;
+}
+
+.work-list:first-child
+{
+    margin-top: 0;
+}
+
+.work-list:last-child
+{
+    margin-bottom: 0;
+}
+
+.work
+{
+    margin: 0 1.7%;
+}
+
+.work-img {
+    padding: 5% 0;
+    background: #FFF;
+}
+
+.work-name
+{
+    text-align: center;
+    font-size: 1.5vw;
+    margin-top: 5px;
+}
+
+.works img {
+    width: 100%;
+}
+
+/* demonstration page */
+.page-1 {
     width: 100vw;
     height: 100vh;
     background: #555;
@@ -30,8 +87,8 @@ html, body {
     right: 10vh;
     z-index: 10;
 }
-.home img
-{
+
+.home img {
     height: 10vh;
 
 }
@@ -40,33 +97,28 @@ html, body {
     margin: 0 auto;
 }
 
-.depict-wrapper
-{
+.depict-wrapper {
     width: 62%;
     margin: auto;
 }
 
-.depict
-{
+.depict {
     position: relative;
     overflow: hidden;
     padding: 2%;
     border: 8px solid white;
 }
 
-.depict:hover .depict-text
-{
+.depict:hover .depict-text {
     left: 50%;
 }
 
-img.depict-image
-{
+img.depict-image {
     width: 100%;
     display: inline-block;
 }
 
-.depict-text
-{
+.depict-text {
     position: absolute;
     top: 0;
     left: 100%;
@@ -84,14 +136,12 @@ img.depict-image
     white-space: pre-line;
 }
 
-.depict-scroll .depict-placeholder
-{
+.depict-scroll .depict-placeholder {
     width: 25%;
     display: inline-block;
 }
 
-.thumbnails-list
-{
+.thumbnails-list {
     width: 90%;
     margin: 4vh auto auto;
     background: white;
@@ -102,12 +152,10 @@ img.depict-image
     margin: 7% auto;
 }
 
-.thumbnails-list .slick-center
-{
+.thumbnails-list .slick-center {
     /*border: 1px solid;*/
 }
 
-.slick-list
-{
+.slick-list {
     height: 100%;
 }
