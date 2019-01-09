@@ -76,7 +76,6 @@ if __name__ == "__main__":
             info = json.load(fp)
 
         html = part1.format(**info)
-        target = "{order}.html".format(**info)
 
         for depict in info["depicts"]:
             html += depict_html.format(**depict, img_dir=info["img_dir"])
@@ -88,7 +87,7 @@ if __name__ == "__main__":
 
         html += part3.format(**info)
 
-        with open(target, 'w', encoding='u8') as fp:
+        with open(info["target"], 'w', encoding='u8') as fp:
             fp.write(html)
 
 
