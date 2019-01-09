@@ -8,13 +8,15 @@ html, body {
 }
 
 a {
-    color: inherit;
-    text-decoration: inherit;
+    color: inherit !important;
+    text-decoration: none !important;
 }
+
 
 /* index page */
 
 .page {
+    padding: 0 7%;
     height: 100vh;
     width: 100vw;
     background: #DDD;
@@ -22,29 +24,68 @@ a {
     background-size: cover;
 }
 
+.title-left {
+    display: inline-block;
+    width: 15%;
+    text-align: justify;
+    text-justify: inter-character;
+    text-align-last: justify;
+    /*vertical-align: middle;*/
+}
+
+.title-left .japanese {
+    font-size: 2.5vw;
+}
+
+.title-left .english {
+    font-size: 1.9vw;
+}
+
+.vl
+{
+    display: inline-block;
+    border-left: 1.5px solid #000;
+    height: 5vw;
+    margin: 0 4.5% 0 4%;
+}
+
+.title-right
+{
+    display: inline-block;
+    /*vertical-align: middle;*/
+    width: 75%;
+    font-size: 0.8vw;
+    line-height: 1.7;
+    font-weight: bold;
+    white-space: pre-line;
+}
+
 .works {
-    width: 90%;
     margin: 0 auto;
 }
 
-.work-list
-{
+.work-list {
     margin: 4% 0;
 }
 
-.work-list:first-child
-{
+.work-list:first-child {
     margin-top: 0;
 }
 
-.work-list:last-child
-{
+.work-list:last-child {
     margin-bottom: 0;
 }
 
-.work
-{
+.work {
     margin: 0 1.7%;
+}
+
+.work:first-child {
+    margin-left: 0;
+}
+
+.work {
+    margin-right: 0;
 }
 
 .work-img {
@@ -52,8 +93,7 @@ a {
     background: #FFF;
 }
 
-.work-name
-{
+.work-name {
     text-align: center;
     font-size: 1.5vw;
     margin-top: 5px;

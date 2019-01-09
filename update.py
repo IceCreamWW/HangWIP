@@ -19,7 +19,7 @@ part1 = '''
             <div class="name">
                 {name}
             </div>
-            <a class="home" href="#">
+            <a class="home" href="index.html">
                 <img src="images/home.png"/>
             </a>
             <div class="slider">
