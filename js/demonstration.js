@@ -1,5 +1,7 @@
 (function ($) {
-    $(window).on('resize',function(){location.reload();});
+    document.addEventListener("fullscreenchange", function() {
+        location.reload()
+    });
     $('#fullpage').fullpage();
     $('.depicts-list').slick({
         slidesToShow: 1,

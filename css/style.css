@@ -161,7 +161,7 @@ a {
     width: 100vw;
     height: 100vh;
     background: #555;
-    background: url("../images/bg.jpg") no-repeat;
+    /*background: url("../images/bg.jpg") no-repeat;*/
     background-size: cover;
     overflow: hidden;
 }
@@ -169,7 +169,7 @@ a {
 .name {
     position: absolute;
     writing-mode: vertical-lr;
-    font-size: 5vh;
+    font-size: 4vh;
     top: 10vh;
     left: 10vh;
 }
@@ -177,7 +177,7 @@ a {
 .home {
     position: absolute;
     top: 35vh;
-    right: 10vh;
+    right: 12vh;
     z-index: 10;
 }
 
@@ -204,6 +204,15 @@ a {
 
 .depict:hover .depict-text {
     left: 50%;
+}
+
+.depict-text img
+{
+    width: 11vw;
+    margin: 0 auto;
+}
+.depict-text span{
+
 }
 
 img.depict-image {
@@ -247,6 +256,22 @@ img.depict-image {
 
 .thumbnails-list .slick-center {
     /*border: 1px solid;*/
+}
+
+.page-2 {
+    width: 100vw;
+    height: 100vh;
+    background: #555;
+    background: url("../images/bg.jpg") no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.page-2 video
+{
+    display: block;
+    width: 64vw;
+    margin: auto;
 }
 
 .slick-list {

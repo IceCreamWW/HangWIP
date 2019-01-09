@@ -6,7 +6,7 @@ part1 = '''
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>{name}</title>
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"/>
     <link rel="stylesheet" type="text/css" href="css/slick.css"/>
     <link rel="stylesheet" type="text/css" href="css/slick-theme.css"/>
@@ -35,7 +35,11 @@ part3 = '''
                 </section>
             </div>
         </div>
-        <div class="page-2 section"></div>
+        <div class="page-2 section">
+            <video controls>
+                <source src="videos/{video_name}" type="video/mp4">
+            </video>
+        </div>
     </div>
 </body>
 <script src="js/jquery-3.3.1.min.js"></script>
@@ -50,9 +54,9 @@ depict_html = '''
                     <div>
                         <div class="depict-wrapper">
                             <div class="depict">
-                                    <img  class="depict-image" src="images/{img_dir}/{img_name}">
-                                    <div class="depict-text">
-                                        {depict_text}
+                                    <img  class="depict-image" src="images/{img_dir}/{depict_img_name}">
+                                    <div class="depict-text text-center">
+                                        <img src="images/{img_dir}/procedure/{procedure_img_name}" alt="">{depict_text}
                                     </div>
                             </div>
                         </div>
@@ -62,7 +66,7 @@ depict_html = '''
 
 thumbnail_html = '''
                     <div class="thumbnail">
-                        <img src="images/{img_dir}/{img_name}">
+                        <img src="images/{img_dir}/{depict_img_name}">
                     </div>
 '''
 
@@ -82,7 +86,7 @@ if __name__ == "__main__":
         for depict in info["depicts"]:
             html += thumbnail_html.format(**depict, img_dir=info["img_dir"])
 
-        html += part3
+        html += part3.format(**info)
 
         with open(target, 'w', encoding='u8') as fp:
             fp.write(html)
