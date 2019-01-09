@@ -12,15 +12,50 @@ a {
     text-decoration: none !important;
 }
 
+/* fonts */
+@font-face {
+    font-family: hans-bold;
+    src: url("../fonts/SourceHanSerif-Bold.otf");
+}
+
+@font-face {
+    font-family: hans-extralight;
+    src: url("../fonts/SourceHanSerif-ExtraLight.otf");
+}
+
+@font-face {
+    font-family: hans-heavy;
+    src: url("../fonts/SourceHanSerif-Heavy.otf");
+}
+
+@font-face {
+    font-family: hans-light;
+    src: url("../fonts/SourceHanSerif-Light.otf");
+}
+
+@font-face {
+    font-family: hans-medium;
+    src: url("../fonts/SourceHanSerif-Medium.otf");
+}
+
+@font-face {
+    font-family: hans-regular;
+    src: url("../fonts/SourceHanSerif-Regular.otf");
+}
+
+@font-face {
+    font-family: hans-semibold;
+    src: url("../fonts/SourceHanSerif-SemiBold.otf");
+}
 
 /* index page */
 
 .page {
     padding: 3% 7% 2% 7%;
     min-height: 100vh;
-    min-width: 100vw;
+    width: 100%;
     background: #DDD;
-    /*background: url("../images/bg.jpg") no-repeat;*/
+    background: url("../images/bg.jpg") no-repeat;
     background-size: cover;
 }
 
@@ -34,6 +69,7 @@ a {
 }
 
 .title-left .japanese {
+    font-family: hans-medium sans-serif;
     font-size: 2.5vw;
 }
 
@@ -41,16 +77,15 @@ a {
     font-size: 1.9vw;
 }
 
-.vl
-{
+.vl {
     display: inline-block;
     border-left: 1.5px solid #000;
     height: 5vw;
     margin: 0 4.5% 0 4%;
 }
 
-.title-right
-{
+.title-right {
+    font-family: hans-semibold, sans-serif;
     display: inline-block;
     /*vertical-align: middle;*/
     width: 75%;
@@ -60,14 +95,14 @@ a {
     white-space: pre-line;
 }
 
-.page .main-hr{
-    margin: 4% 0;
+.page .main-hr {
+    margin: 3% 0 5% 0;
     width: 100%;
     border-top: 2px dashed;
 }
 
-.page .sub-hr{
-    margin: 4% auto ;
+.page .sub-hr {
+    margin: 4% auto;
     width: 96%;
     border-top: 1px dashed rgba(0, 0, 0, 0.4);
 }
@@ -76,44 +111,42 @@ a {
     margin: 0 auto;
 }
 
-
-.category-name
-{
+.category-name {
     display: inline-block;
 }
 
-.category-name img
-{
+.category-name img {
     display: inline-block;
-    width: 4%;
+    width: 5%;
     vertical-align: middle;
 }
 
-.category-name span
-{
+.category-name span {
     display: inline-block;
+    font-family: hans-semibold sans-serif;
+    font-size: 1.6vw;
     vertical-align: middle;
     margin-left: 5%;
 }
 
-.category-link
-{
+.category-link {
     display: inline-block;
     float: right;
-    margin-right: 7%;
+    transform: translateX(10%);
 }
 
-.category-link img
-{
+.category-link img {
     display: inline-block;
-    width: 2vw;
+    width: 12%;
     vertical-align: middle;
 }
 
-.category-link span
-{
+.category-link span {
     display: inline-block;
+    font-family: hans-semibold sans-serif;
+    font-size: 1.6vw;
     vertical-align: middle;
+    margin-left: 5%;
 }
 
 .work-list {
@@ -147,9 +180,10 @@ a {
 }
 
 .work-name {
+    font-family: hans-medium sans-serif;
     text-align: center;
-    font-size: 1.5vw;
-    margin-top: 5px;
+    font-size: 1.4vw;
+    margin-top: 6%;
 }
 
 .work-list img {
@@ -161,7 +195,7 @@ a {
     width: 100vw;
     height: 100vh;
     background: #555;
-    /*background: url("../images/bg.jpg") no-repeat;*/
+    background: url("../images/bg.jpg") no-repeat;
     background-size: cover;
     overflow: hidden;
 }
@@ -169,6 +203,7 @@ a {
 .name {
     position: absolute;
     writing-mode: vertical-lr;
+    font-family: hans-semibold sans-serif;
     font-size: 4vh;
     top: 10vh;
     left: 10vh;
@@ -206,13 +241,13 @@ a {
     left: 50%;
 }
 
-.depict-text img
-{
+.depict-text img {
     width: 11vw;
     margin: 0 auto;
 }
-.depict-text span{
 
+.depict-text {
+    font-family: hans-semibold sans-serif;
 }
 
 img.depict-image {
@@ -251,7 +286,7 @@ img.depict-image {
 
 .thumbnails-list img {
     width: 90%;
-    margin: 7% auto;
+    margin: 7% auto 5%;
 }
 
 .thumbnails-list .slick-center {
@@ -267,10 +302,9 @@ img.depict-image {
     overflow: hidden;
 }
 
-.page-2 video
-{
+.page-2 video {
     display: block;
-    width: 64vw;
+    width: 70vw;
     margin: auto;
 }
 

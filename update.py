@@ -36,7 +36,7 @@ part3 = '''
             </div>
         </div>
         <div class="page-2 section">
-            <video controls>
+            <video controls onclick="this.paused ? this.play() : this.pause();">
                 <source src="videos/{video_name}" type="video/mp4">
             </video>
         </div>

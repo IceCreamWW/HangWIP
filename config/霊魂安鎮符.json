@@ -51,13 +51,13 @@
 		},
 		{
 			"depict_img_name": "09.jpg",
-			"procedure_img_name": "09.png",
-			"depict_text": "上一枚を真ん中まで内側へ折りこむ：\n１）左より、右へ、（陽、火）:陽の折り\n２）右より、左へ、（陰、水）:陰の折り"
+			"procedure_img_name": "",
+			"depict_text": ""
 		},
 		{
 			"depict_img_name": "10.jpg",
-			"procedure_img_name": "",
-			"depict_text": ""
+			"procedure_img_name": "09.png",
+			"depict_text": "上一枚を真ん中まで内側へ折りこむ：\n１）左より、右へ、（陽、火）:陽の折り\n２）右より、左へ、（陰、水）:陰の折り"
 		},
 		{
 			"depict_img_name": "11.jpg",
