@@ -81,9 +81,6 @@ if __name__ == "__main__":
         with open("./config/" + filename, encoding='u8') as fp:
             info = json.load(fp)
 
-        if info["type"] != "normal":
-            continue
-
         html = part1.format(**info)
 
         for depict in info["depicts"]:
