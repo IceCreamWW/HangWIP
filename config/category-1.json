@@ -1,0 +1,30 @@
+{
+	"name": "",
+	"introduction": "",
+	"target": "cat-2.html",
+	"video_name": "1.mp4",
+	"img_dir": "cat-1",
+	"js": "category-1.js",
+	"depicts": [
+		{
+			"depict_img_name": "00.jpg",
+			"procedure_img_name": "",
+			"depict_text": "袋折り"
+		},
+		{
+			"depict_img_name": "01.jpg",
+			"procedure_img_name": "",
+			"depict_text": "袋折り"
+		},
+		{
+			"depict_img_name": "02.jpg",
+			"procedure_img_name": "",
+			"depict_text": ""
+		},
+		{
+			"depict_img_name": "03.jpg",
+			"procedure_img_name": "",
+			"depict_text": "指二本分のはばを残して"
+		}
+	]
+}

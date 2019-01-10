@@ -14,39 +14,39 @@ a {
 
 /* fonts */
 @font-face {
-    font-family: hans-bold;
-    src: url("../fonts/SourceHanSerif-Bold.otf");
-}
-
-@font-face {
-    font-family: hans-extralight;
-    src: url("../fonts/SourceHanSerif-ExtraLight.otf");
-}
-
-@font-face {
-    font-family: hans-heavy;
-    src: url("../fonts/SourceHanSerif-Heavy.otf");
-}
-
-@font-face {
-    font-family: hans-light;
-    src: url("../fonts/SourceHanSerif-Light.otf");
-}
-
-@font-face {
     font-family: hans-medium;
     src: url("../fonts/SourceHanSerif-Medium.otf");
-}
-
-@font-face {
-    font-family: hans-regular;
-    src: url("../fonts/SourceHanSerif-Regular.otf");
 }
 
 @font-face {
     font-family: hans-semibold;
     src: url("../fonts/SourceHanSerif-SemiBold.otf");
 }
+
+/*@font-face {*/
+/*font-family: hans-bold;*/
+/*src: url("../fonts/SourceHanSerif-Bold.otf");*/
+/*}*/
+
+/*@font-face {*/
+/*font-family: hans-extralight;*/
+/*src: url("../fonts/SourceHanSerif-ExtraLight.otf");*/
+/*}*/
+
+/*@font-face {*/
+/*font-family: hans-heavy;*/
+/*src: url("../fonts/SourceHanSerif-Heavy.otf");*/
+/*}*/
+
+/*@font-face {*/
+/*font-family: hans-light;*/
+/*src: url("../fonts/SourceHanSerif-Light.otf");*/
+/*}*/
+
+/*@font-face {*/
+/*font-family: hans-regular;*/
+/*src: url("../fonts/SourceHanSerif-Regular.otf");*/
+/*}*/
 
 /* index page */
 
@@ -69,7 +69,7 @@ a {
 }
 
 .title-left .japanese {
-    font-family: hans-medium sans-serif;
+    font-family: hans-medium;
     font-size: 2.5vw;
 }
 
@@ -85,7 +85,7 @@ a {
 }
 
 .title-right {
-    font-family: hans-semibold, sans-serif;
+    font-family: hans-semibold;
     display: inline-block;
     /*vertical-align: middle;*/
     width: 75%;
@@ -123,7 +123,7 @@ a {
 
 .category-name span {
     display: inline-block;
-    font-family: hans-semibold sans-serif;
+    font-family: hans-semibold;
     font-size: 1.6vw;
     vertical-align: middle;
     margin-left: 5%;
@@ -143,7 +143,7 @@ a {
 
 .category-link span {
     display: inline-block;
-    font-family: hans-semibold sans-serif;
+    font-family: hans-semibold;
     font-size: 1.6vw;
     vertical-align: middle;
     margin-left: 5%;
@@ -180,7 +180,7 @@ a {
 }
 
 .work-name {
-    font-family: hans-medium sans-serif;
+    font-family: hans-medium;
     text-align: center;
     font-size: 1.4vw;
     margin-top: 6%;
@@ -200,13 +200,29 @@ a {
     overflow: hidden;
 }
 
-.name {
+
+.info
+{
     position: absolute;
-    writing-mode: vertical-lr;
-    font-family: hans-semibold sans-serif;
-    font-size: 4vh;
     top: 10vh;
-    left: 10vh;
+    right: 84vw;
+    max-height: 50vh;
+    z-index: 10;
+}
+.name {
+    display: inline-block;
+    writing-mode: vertical-lr;
+    font-family: hans-semibold;
+    font-size: 4vh;
+    vertical-align: top;
+}
+.intro
+{
+    display: inline-block;
+    writing-mode: vertical-rl;
+    font-family: hans-semibold;
+    font-size: 2vh;
+    vertical-align: top;
 }
 
 .home {
@@ -247,7 +263,7 @@ a {
 }
 
 .depict-text {
-    font-family: hans-semibold sans-serif;
+    font-family: hans-semibold;
 }
 
 img.depict-image {

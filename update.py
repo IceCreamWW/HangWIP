@@ -16,8 +16,13 @@ part1 = '''
 <body>
     <div id="fullpage">
         <div class="page-1 section">
-            <div class="name">
+            <div class="info">
+                <div class="intro">
+                {introduction}
+                </div>
+                <div class="name">
                 {name}
+                </div>
             </div>
             <a class="home" href="index.html">
                 <img src="images/home.png"/>
@@ -46,7 +51,7 @@ part3 = '''
 <script src="js/bootstrap.min.js"></script>
 <script src="js/slick.js"></script>
 <script src="js/fullpage.js"></script>
-<script src="js/demonstration.js"></script>
+<script src="js/{js}"></script>
 </html>
 '''
 
@@ -72,8 +77,12 @@ thumbnail_html = '''
 
 if __name__ == "__main__":
     for filename in os.listdir('./config'):
+
         with open("./config/" + filename, encoding='u8') as fp:
             info = json.load(fp)
+
+        if info["type"] != "normal":
+            continue
 
         html = part1.format(**info)
 
