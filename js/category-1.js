@@ -41,7 +41,7 @@
         arrows: false,
         centerMode: true,
         infinite: false,
-        slidesToShow: 5,
+        slidesToShow: 4,
         focusOnSelect: true,
         swipeToSlide: true,
         asNavFor: '.depicts-list',

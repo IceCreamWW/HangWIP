@@ -15,13 +15,17 @@ part1 = '''
 </head>
 <body>
     <div id="fullpage">
+        <div class="page-0 section">
+            <img src="images/1/home.png">
+        </div>
+
         <div class="page-1 section">
             <div class="info">
-                <div class="intro">
-                {introduction}
-                </div>
                 <div class="name">
                 {name}
+                </div>
+                <div class="intro">
+                {introduction}
                 </div>
             </div>
             <a class="home" href="index.html">
@@ -59,9 +63,9 @@ depict_html = '''
                     <div>
                         <div class="depict-wrapper">
                             <div class="depict">
-                                    <img  class="depict-image" src="images/{img_dir}/{depict_img_name}">
+                                    <img  class="depict-image" src="images/{img_dir}/picture/{depict_img_name}">
                                     <div class="depict-text text-center">
-                                        <img src="images/{img_dir}/procedure/{procedure_img_name}" alt="">{depict_text}
+                                        <img src="images/{img_dir}/procedure/{procedure_img_name}" alt="">
                                     </div>
                             </div>
                         </div>
@@ -71,7 +75,7 @@ depict_html = '''
 
 thumbnail_html = '''
                     <div class="thumbnail">
-                        <img src="images/{img_dir}/{depict_img_name}">
+                        <img src="images/{img_dir}/picture/{depict_img_name}">
                     </div>
 '''
 
@@ -80,7 +84,7 @@ if __name__ == "__main__":
 
         with open("./config/" + filename, encoding='u8') as fp:
             info = json.load(fp)
-
+ 
         html = part1.format(**info)
 
         for depict in info["depicts"]:

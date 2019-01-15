@@ -55,7 +55,7 @@ a {
     min-height: 100vh;
     width: 100%;
     background: #DDD;
-    background: url("../images/bg.jpg") no-repeat;
+    /*background: url("../images/bg.jpg") no-repeat;*/
     background-size: cover;
 }
 
@@ -191,6 +191,19 @@ a {
 }
 
 /* demonstration page */
+.page-0 {
+    width: 100vw;
+    height: 100vh;
+    background: #555;
+    background: url("../images/bg.jpg") no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.page-0 img {
+    width: 100%;
+}
+
 .page-1 {
     width: 100vw;
     height: 100vh;
@@ -200,35 +213,32 @@ a {
     overflow: hidden;
 }
 
-
-.info
-{
-    position: absolute;
-    top: 10vh;
-    right: 84vw;
-    max-height: 50vh;
+.info {
+    text-align: center;
     z-index: 10;
+    margin: 0 auto 1%;
 }
+
 .name {
     display: inline-block;
-    writing-mode: vertical-lr;
     font-family: hans-semibold;
     font-size: 4vh;
-    vertical-align: top;
+    vertical-align: middle;
+    margin-right: 1%;
 }
-.intro
-{
+
+.intro {
     display: inline-block;
-    writing-mode: vertical-rl;
     font-family: hans-semibold;
     font-size: 2vh;
-    vertical-align: top;
+    vertical-align: middle;
+    margin-left: 1%;
 }
 
 .home {
     position: absolute;
     top: 35vh;
-    right: 12vh;
+    right: 4vw;
     z-index: 10;
 }
 
@@ -242,46 +252,39 @@ a {
 }
 
 .depict-wrapper {
-    width: 62%;
+    width: 80%;
     margin: auto;
 }
 
 .depict {
     position: relative;
     overflow: hidden;
-    padding: 2%;
-    border: 8px solid white;
+    border: 6px solid white;
 }
 
-.depict:hover .depict-text {
-    left: 50%;
+img.depict-image {
+    width: 70%;
+    padding: 1%;
+    border-right: 5px solid white;
+    display: inline-block;
 }
 
 .depict-text img {
-    width: 11vw;
+    width: 100%;
     margin: 0 auto;
+    transform: scale(1.2);
 }
 
 .depict-text {
     font-family: hans-semibold;
 }
 
-img.depict-image {
-    width: 100%;
-    display: inline-block;
-}
-
 .depict-text {
-    position: absolute;
-    top: 0;
-    left: 100%;
-    height: 97%;
-    width: 50%;
-    font-size: 1.3vw;
-    padding: 4%;
-    transition: left 500ms ease-out;
-    background: rgba(255, 255, 255, 0.3);
-
+    background: rgba(255, 255, 255, 0.0);
+    float: right;
+    width: 30%;
+    height: 56vh;
+    padding: 0 2%;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -295,7 +298,7 @@ img.depict-image {
 }
 
 .thumbnails-list {
-    width: 90%;
+    width: 100%;
     margin: 4vh auto auto;
     background: white;
 }
@@ -313,7 +316,7 @@ img.depict-image {
     width: 100vw;
     height: 100vh;
     background: #555;
-    background: url("../images/bg.jpg") no-repeat;
+    /*background: url("../images/bg.jpg") no-repeat;*/
     background-size: cover;
     overflow: hidden;
 }
