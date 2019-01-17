@@ -28,7 +28,7 @@ part1 = '''
                 {introduction}
                 </div>
             </div>
-            <a class="home" href="index.html">
+            <a class="home" href="index.html#{anchor}">
                 <img src="images/home.png"/>
             </a>
             <div class="slider">
