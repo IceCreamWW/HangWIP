@@ -3,16 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="3a1d96a2-f6c1-4908-9679-9969140cab2b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cat-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/category-1.json" beforeDir="false" afterPath="$PROJECT_DIR$/config/category-1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/交通事故除符.json" beforeDir="false" afterPath="$PROJECT_DIR$/config/交通事故除符.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/厄除符.json" beforeDir="false" afterPath="$PROJECT_DIR$/config/厄除符.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/夫婦和合符.json" beforeDir="false" afterPath="$PROJECT_DIR$/config/夫婦和合符.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/家内安全符.json" beforeDir="false" afterPath="$PROJECT_DIR$/config/家内安全符.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/旅行安全符.json" beforeDir="false" afterPath="$PROJECT_DIR$/config/旅行安全符.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/水子霊供養符.json" beforeDir="false" afterPath="$PROJECT_DIR$/config/水子霊供養符.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/霊魂安鎮符.json" beforeDir="false" afterPath="$PROJECT_DIR$/config/霊魂安鎮符.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cat-1/00.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cat-1/01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cat-1/02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cat-1/03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/update.py" beforeDir="false" afterPath="$PROJECT_DIR$/update.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -41,7 +41,7 @@
           <entry key="" value="1" />
           <entry key="css" value="5" />
           <entry key="gitignore" value="2" />
-          <entry key="html" value="12" />
+          <entry key="html" value="13" />
           <entry key="jpg" value="1" />
           <entry key="js" value="9" />
           <entry key="py" value="3" />
@@ -50,7 +50,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="5" />
-          <entry key="HTML" value="12" />
+          <entry key="HTML" value="13" />
           <entry key="Image" value="1" />
           <entry key="JavaScript" value="9" />
           <entry key="PLAIN_TEXT" value="6" />
@@ -59,18 +59,18 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="" value="14" />
-          <entry key="css" value="13691" />
+          <entry key="css" value="14966" />
           <entry key="gitignore" value="94" />
-          <entry key="html" value="10213" />
-          <entry key="js" value="1597" />
+          <entry key="html" value="10245" />
+          <entry key="js" value="1717" />
           <entry key="py" value="376" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="13691" />
-          <entry key="HTML" value="10213" />
-          <entry key="JavaScript" value="1597" />
+          <entry key="CSS" value="14966" />
+          <entry key="HTML" value="10245" />
+          <entry key="JavaScript" value="1717" />
           <entry key="PLAIN_TEXT" value="484" />
         </counts>
       </usages-collector>
@@ -91,19 +91,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cat-2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="32" column="87" selection-start-line="32" selection-start-column="81" selection-end-line="32" selection-end-column="88" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/category-1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="43" column="22" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
+            <state relative-caret-position="285">
+              <caret line="47" selection-start-line="47" selection-end-line="47" />
             </state>
           </provider>
         </entry>
@@ -120,7 +111,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
+            <state>
               <caret line="94" column="30" selection-start-line="94" selection-start-column="30" selection-end-line="94" selection-end-column="30" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -132,8 +123,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
+            <state relative-caret-position="703">
               <caret line="511" column="6" selection-start-line="511" selection-start-column="6" selection-end-line="511" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cat-1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="249">
+              <caret line="45" column="85" selection-start-line="45" selection-start-column="85" selection-end-line="45" selection-end-column="85" />
             </state>
           </provider>
         </entry>
@@ -147,11 +147,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="338" selection-start-line="338" selection-end-line="338" />
+            <state relative-caret-position="171">
+              <caret line="340" selection-start-line="340" selection-end-line="340" />
             </state>
           </provider>
         </entry>
@@ -179,13 +179,13 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/update.py" />
         <option value="$PROJECT_DIR$/js/category.js" />
-        <option value="$PROJECT_DIR$/cat-1.html" />
-        <option value="$PROJECT_DIR$/js/category-1.js" />
         <option value="$PROJECT_DIR$/2.html" />
         <option value="$PROJECT_DIR$/1.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/cat-2.html" />
+        <option value="$PROJECT_DIR$/js/category-1.js" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/cat-1.html" />
       </list>
     </option>
   </component>
@@ -214,17 +214,6 @@
             <path>
               <item name="HangWIP" type="b2602c69:ProjectViewProjectNode" />
               <item name="HangWIP" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HangWIP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HangWIP" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HangWIP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HangWIP" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="cat-1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -274,12 +263,12 @@
       <workItem from="1546953989976" duration="4357000" />
       <workItem from="1546998513875" duration="26087000" />
       <workItem from="1547085063594" duration="9406000" />
-      <workItem from="1547538876049" duration="12327000" />
+      <workItem from="1547538876049" duration="14496000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74568000" />
+    <option name="totallyTimeSpent" value="76737000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -297,7 +286,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.34154353" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.33004925" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -339,24 +328,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/category-1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="43" column="22" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="14" column="63" selection-start-line="14" selection-start-column="63" selection-end-line="14" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="511" column="6" selection-start-line="511" selection-start-column="6" selection-end-line="511" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -382,16 +357,9 @@
     <entry file="file://$PROJECT_DIR$/images/index/1.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
+        <state>
           <caret line="94" column="30" selection-start-line="94" selection-start-column="30" selection-end-line="94" selection-end-column="30" />
           <folding>
             <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -399,24 +367,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cat-1.html">
+    <entry file="file://$PROJECT_DIR$/cat-2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="95">
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cat-2.html">
+    <entry file="file://$PROJECT_DIR$/js/category-1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="32" column="87" selection-start-line="32" selection-start-column="81" selection-end-line="32" selection-end-column="88" />
+        <state relative-caret-position="285">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="338" selection-start-line="338" selection-end-line="338" />
+        <state relative-caret-position="171">
+          <caret line="340" selection-start-line="340" selection-end-line="340" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="511" column="6" selection-start-line="511" selection-start-column="6" selection-end-line="511" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cat-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="45" column="85" selection-start-line="45" selection-start-column="85" selection-end-line="45" selection-end-column="85" />
         </state>
       </provider>
     </entry>

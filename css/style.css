@@ -336,12 +336,60 @@ img.depict-image {
 
 
 /* categories */
-
+#cat-1 .info
+{
+    max-width: 80%;
+    height: 11vh;
+}
 #cat-1 .intro
 {
     text-align: left;
 }
-#cat-1 .info
+#cat-1 img.depict-image {
+    width: 100%;
+    border-right: 5px solid white;
+    display: inline-block;
+}
+
+#cat-1 .depict-text img {
+    margin: 0 auto;
+}
+
+#cat-1 .depict-wrapper {
+    width: 57%;
+    margin: auto;
+}
+
+#cat-1 .depict {
+    border: 8px solid white;
+    padding: 1%;
+}
+#cat-1 .depict-text {
+    position: absolute;
+    left: 50%;
+    top: 0;
+    width: 50%;
+    height: 100%;
+    background: rgba(255, 255, 255, 0.2);
+    font-size: 1.5vw;
+}
+#cat-1 .thumbnails-list {
+    width: 100%;
+    margin-top: 0;
+    background: white;
+}
+#cat-1 .home {
+    position: absolute;
+    top: 35vh;
+    right: 6vw;
+    z-index: 10;
+}
+#cat-1 .thumbnails-list
 {
-    max-width: 80%;
+    height: 20vh;
+}
+
+.thumbnails-list img {
+    width: 85%;
+    margin: 2% auto 1%;
 }

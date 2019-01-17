@@ -7,159 +7,80 @@
 	"js": "demonstration.js",
 	"depicts": [
 		{
-			"depict_img_name": "00.jpg",
-			"procedure_img_name": "01.png",
-			"depict_text": "陰の置き方"
-		},
-		{
 			"depict_img_name": "01.jpg",
-			"procedure_img_name": "02.png",
-			"depict_text": "下より、上へ、（陽、火）：陽の折り"
+			"procedure_img_name": "01.png"
 		},
 		{
 			"depict_img_name": "02.jpg",
-			"procedure_img_name": "03.png",
-			"depict_text": "袋折り：内側へ斜め折り、\n左斜め下方より、右斜め上方へ、（陰、火中の水）:陰の折り"
+			"procedure_img_name": "02.png"
 		},
 		{
 			"depict_img_name": "03.jpg",
-			"procedure_img_name": "04.png",
-			"depict_text": "右より、左へ、（陰、水）:陰の折り"
+			"procedure_img_name": "03.png"
 		},
 		{
 			"depict_img_name": "04.jpg",
-			"procedure_img_name": "05.png",
-			"depict_text": ""
+			"procedure_img_name": "04.png"
 		},
 		{
 			"depict_img_name": "05.jpg",
-			"procedure_img_name": "06.png",
-			"depict_text": "袋折り：右斜め下方より、左斜め上方へ、（陽、火）:陽の折り"
+			"procedure_img_name": "05.png"
 		},
 		{
 			"depict_img_name": "06.jpg",
-			"procedure_img_name": "07.png",
-			"depict_text": "左より、右へ、（陽、火）:陽の折り"
+			"procedure_img_name": "06.png"
 		},
 		{
 			"depict_img_name": "07.jpg",
-			"procedure_img_name": "",
-			"depict_text": ""
+			"procedure_img_name": "07.png"
 		},
 		{
 			"depict_img_name": "08.jpg",
-			"procedure_img_name": "08.png",
-			"depict_text": "上より、下へ、（陰、水）:陰の折り"
+			"procedure_img_name": "08.png"
 		},
 		{
 			"depict_img_name": "09.jpg",
-			"procedure_img_name": "",
-			"depict_text": ""
+			"procedure_img_name": "09.png"
 		},
 		{
 			"depict_img_name": "10.jpg",
-			"procedure_img_name": "09.png",
-			"depict_text": "上一枚を真ん中まで内側へ折りこむ：\n１）左より、右へ、（陽、火）:陽の折り\n２）右より、左へ、（陰、水）:陰の折り"
+			"procedure_img_name": "10.png"
 		},
 		{
 			"depict_img_name": "11.jpg",
-			"procedure_img_name": "",
-			"depict_text": ""
+			"procedure_img_name": "11.png"
 		},
 		{
 			"depict_img_name": "12.jpg",
-			"procedure_img_name": "",
-			"depict_text": ""
+			"procedure_img_name": "12.png"
 		},
 		{
 			"depict_img_name": "13.jpg",
-			"procedure_img_name": "",
-			"depict_text": ""
+			"procedure_img_name": "13.png"
 		},
 		{
 			"depict_img_name": "14.jpg",
-			"procedure_img_name": "",
-			"depict_text": ""
+			"procedure_img_name": "14.png"
 		},
 		{
 			"depict_img_name": "15.jpg",
-			"procedure_img_name": "10.png",
-			"depict_text": "内側へ折り合わす：\n１）左斜め上方より、右斜め下方へ、（陽、水中の火）:陽の折り\n２）右斜め上方より、左斜め下方へ、（陰、水）:陰の折り"
+			"procedure_img_name": "15.png"
 		},
 		{
 			"depict_img_name": "16.jpg",
-			"procedure_img_name": "",
-			"depict_text": ""
+			"procedure_img_name": "16.png"
 		},
 		{
 			"depict_img_name": "17.jpg",
-			"procedure_img_name": "",
-			"depict_text": ""
+			"procedure_img_name": "17.png"
 		},
 		{
 			"depict_img_name": "18.jpg",
-			"procedure_img_name": "",
-			"depict_text": ""
+			"procedure_img_name": "18.png"
 		},
 		{
 			"depict_img_name": "19.jpg",
-			"procedure_img_name": "",
-			"depict_text": ""
-		},
-		{
-			"depict_img_name": "20.jpg",
-			"procedure_img_name": "11.png",
-			"depict_text": "裏に返す"
-		},
-		{
-			"depict_img_name": "21.jpg",
-			"procedure_img_name": "12.png",
-			"depict_text": "真ん中で折り合わす：\n１）左斜め上方より、右斜め下方へ、（陽、水中の火）:陽の折り\n２）右斜め上方より、左斜め下方へ、（陰、水）:陰の折り"
-		},
-		{
-			"depict_img_name": "22.jpg",
-			"procedure_img_name": "",
-			"depict_text": ""
-		},
-		{
-			"depict_img_name": "23.jpg",
-			"procedure_img_name": "",
-			"depict_text": ""
-		},
-		{
-			"depict_img_name": "24.jpg",
-			"procedure_img_name": "",
-			"depict_text": ""
-		},
-		{
-			"depict_img_name": "25.jpg",
-			"procedure_img_name": "13.png",
-			"depict_text": ""
-		},
-		{
-			"depict_img_name": "26.jpg",
-			"procedure_img_name": "14.png",
-			"depict_text": "上一枚を真ん中まで折りこむ：\n１）右斜め下方より、左斜め上方へ、（陽、火）:陽の折り\n２）左斜め下方より、右斜め上方へ、（陰、火中の水）:陰の折り"
-		},
-		{
-			"depict_img_name": "27.jpg",
-			"procedure_img_name": "",
-			"depict_text": ""
-		},
-		{
-			"depict_img_name": "28.jpg",
-			"procedure_img_name": "15.png",
-			"depict_text": "上一枚を真ん中まで折りこむ：\n１）右斜め下方より、左斜め上方へ、（陽、火）:陽の折り\n２）左斜め下方より、右斜め上方へ、（陰、火中の水）:陰の折り"
-		},
-		{
-			"depict_img_name": "29.jpg",
-			"procedure_img_name": "",
-			"depict_text": ""
-		},
-		{
-			"depict_img_name": "30.jpg",
-			"procedure_img_name": "16.png",
-			"depict_text": "裏に返して、陰の折符となる"
+			"procedure_img_name": "19.png"
 		}
 	]
 }
