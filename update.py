@@ -16,7 +16,7 @@ part1 = '''
 <body>
     <div id="fullpage">
         <div class="page-0 section">
-            <img src="images/1/home.png">
+            <img src="images/{img_dir}/home.png">
         </div>
 
         <div class="page-1 section">

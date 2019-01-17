@@ -1,0 +1,74 @@
+{
+	"name": "厄除符",
+	"introduction": "この符は「霊魂安鎮法」にて説明した霊魂を慰霊し、その霊を浄化して、解脱を得らしめるための秘符である。",
+	"target": "5.html",
+	"video_name": "5.mp4",
+	"img_dir": "5",
+	"js": "demonstration.js",
+	"depicts": [
+		{
+			"depict_img_name": "01.jpg",
+			"procedure_img_name": "01.png"
+		},
+		{
+			"depict_img_name": "02.jpg",
+			"procedure_img_name": "02.png"
+		},
+		{
+			"depict_img_name": "03.jpg",
+			"procedure_img_name": "03.png"
+		},
+		{
+			"depict_img_name": "04.jpg",
+			"procedure_img_name": "04.png"
+		},
+		{
+			"depict_img_name": "05.jpg",
+			"procedure_img_name": "05.png"
+		},
+		{
+			"depict_img_name": "06.jpg",
+			"procedure_img_name": "06.png"
+		},
+		{
+			"depict_img_name": "07.jpg",
+			"procedure_img_name": "07.png"
+		},
+		{
+			"depict_img_name": "08.jpg",
+			"procedure_img_name": "08.png"
+		},
+		{
+			"depict_img_name": "09.jpg",
+			"procedure_img_name": "09.png"
+		},
+		{
+			"depict_img_name": "10.jpg",
+			"procedure_img_name": "10.png"
+		},
+		{
+			"depict_img_name": "11.jpg",
+			"procedure_img_name": "11.png"
+		},
+		{
+			"depict_img_name": "12.jpg",
+			"procedure_img_name": "12.png"
+		},
+		{
+			"depict_img_name": "13.jpg",
+			"procedure_img_name": "13.png"
+		},
+		{
+			"depict_img_name": "14.jpg",
+			"procedure_img_name": "14.png"
+		},
+		{
+			"depict_img_name": "15.jpg",
+			"procedure_img_name": "15.png"
+		},
+		{
+			"depict_img_name": "16.jpg",
+			"procedure_img_name": "16.png"
+		}
+	]
+}

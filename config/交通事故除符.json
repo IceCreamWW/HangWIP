@@ -1,0 +1,50 @@
+{
+	"name": "交通事故除符",
+	"introduction": "この符は「霊魂安鎮法」にて説明した霊魂を慰霊し、その霊を浄化して、解脱を得らしめるための秘符である。",
+	"target": "6.html",
+	"video_name": "6.mp4",
+	"img_dir": "6",
+	"js": "demonstration.js",
+	"depicts": [
+		{
+			"depict_img_name": "01.jpg",
+			"procedure_img_name": "01.png"
+		},
+		{
+			"depict_img_name": "02.jpg",
+			"procedure_img_name": "02.png"
+		},
+		{
+			"depict_img_name": "03.jpg",
+			"procedure_img_name": "03.png"
+		},
+		{
+			"depict_img_name": "04.jpg",
+			"procedure_img_name": "04.png"
+		},
+		{
+			"depict_img_name": "05.jpg",
+			"procedure_img_name": "05.png"
+		},
+		{
+			"depict_img_name": "06.jpg",
+			"procedure_img_name": "06.png"
+		},
+		{
+			"depict_img_name": "07.jpg",
+			"procedure_img_name": "07.png"
+		},
+		{
+			"depict_img_name": "08.jpg",
+			"procedure_img_name": "08.png"
+		},
+		{
+			"depict_img_name": "09.jpg",
+			"procedure_img_name": "09.png"
+		},
+		{
+			"depict_img_name": "10.jpg",
+			"procedure_img_name": "10.png"
+		}
+	]
+}

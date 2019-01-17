@@ -1,7 +1,7 @@
 {
 	"name": "霊魂安鎮符",
 	"introduction": "この符は「霊魂安鎮法」にて説明した霊魂を慰霊し、その霊を浄化して、解脱を得らしめるための秘符である。",
-	"target": "2.html",
+	"target": "1.html",
 	"video_name": "1.mp4",
 	"img_dir": "1",
 	"js": "demonstration.js",

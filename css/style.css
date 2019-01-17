@@ -55,7 +55,7 @@ a {
     min-height: 100vh;
     width: 100%;
     background: #DDD;
-    /*background: url("../images/bg.jpg") no-repeat;*/
+    background: url("../images/bg.jpg") no-repeat;
     background-size: cover;
 }
 
@@ -316,7 +316,7 @@ img.depict-image {
     width: 100vw;
     height: 100vh;
     background: #555;
-    /*background: url("../images/bg.jpg") no-repeat;*/
+    background: url("../images/bg.jpg") no-repeat;
     background-size: cover;
     overflow: hidden;
 }
@@ -329,4 +329,19 @@ img.depict-image {
 
 .slick-list {
     height: 100%;
+}
+
+
+
+
+
+/* categories */
+
+#cat-1 .intro
+{
+    text-align: left;
+}
+#cat-1 .info
+{
+    max-width: 80%;
 }
