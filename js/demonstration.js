@@ -14,7 +14,7 @@
 
     $(".thumbnails-list").slick({
         arrows: false,
-        centerMode: true,
+        centerMode: false,
         infinite: false,
         slidesToShow: 5,
         focusOnSelect: true,

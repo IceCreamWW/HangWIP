@@ -1,4 +1,4 @@
-html, body {
+ytml, body {
     margin: 0;
     padding: 0;
 }
@@ -132,7 +132,7 @@ a {
     font-family: hans-semibold;
     font-size: 1.6vw;
     vertical-align: middle;
-    margin-left: 5%;
+    transform: translateX(5%);
 }
 
 .category-link {
@@ -319,6 +319,11 @@ img.depict-image {
 
 .thumbnails-list .slick-center {
     /*border: 1px solid;*/
+}
+
+.slick-current .thumbnail img
+{
+    border: 3px solid rgba(0, 0, 0, 0.5);
 }
 
 .page-2 {

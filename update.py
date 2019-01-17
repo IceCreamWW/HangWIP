@@ -82,6 +82,9 @@ thumbnail_html = '''
 if __name__ == "__main__":
     for filename in os.listdir('./config'):
 
+        if not filename.endswith(".json"):
+            continue
+
         with open("./config/" + filename, encoding='u8') as fp:
             info = json.load(fp)
  
@@ -99,7 +102,3 @@ if __name__ == "__main__":
 
         with open(info["target"], 'w', encoding='u8') as fp:
             fp.write(html)
-
-
-
-
